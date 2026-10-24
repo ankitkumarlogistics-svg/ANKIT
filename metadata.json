@@ -1,0 +1,6 @@
+{
+  "name": "Yokohama Logistics & Freight Manager",
+  "description": "Create, edit, and manage booking confirmations and freight invoices with instant PDF generation, Excel export, and complete record tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
